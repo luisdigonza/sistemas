@@ -1,0 +1,5 @@
+#IGNORAR CARPETA CON ARCHIVOS PDF
+/cv-pdf
+
+#IGNORAR CARPETA .git
+/.git
